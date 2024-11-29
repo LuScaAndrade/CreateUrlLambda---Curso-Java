@@ -1,9 +1,7 @@
 # CreateUrlLambda - Curso-Java
-# Encurtador de URLs
+## Encurtador de URLs
 
 Este projeto implementa um serviço de encurtamento de URLs utilizando AWS Lambda e Amazon S3.
-
----
 
 ## 📋 Descrição
 
